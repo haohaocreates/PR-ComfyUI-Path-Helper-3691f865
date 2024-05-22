@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-path-helper"
+description = "Nodes:Create Project Root, Add Folder, Add Folder Advanced, Add File Name Prefix, Add File Name Prefix Advanced, ShowPath"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Billius-AI/ComfyUI-Path-Helper"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Path-Helper"
+Icon = ""
